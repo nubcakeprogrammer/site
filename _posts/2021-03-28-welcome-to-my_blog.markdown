@@ -4,6 +4,17 @@ title:  "Welcome to my blog!"
 date:   2021-03-28 16:25:59 +0530
 categories: welcome
 ---
+
+<style type="text/css">
+	.site-title::before {
+	content: url("./../../../../assets/images/logo.png");
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	margin-right: 5px;
+}	
+</style>
+
 Welcome to my blog. I'll soon start writing on a lot of stuff that excites me as a developer. 
 
 My Interests

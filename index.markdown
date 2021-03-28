@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+<style type="text/css">
+	.site-title::before {
+	content: url("./../assets/images/logo.png");
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	margin-right: 5px;
+}	
+</style>
